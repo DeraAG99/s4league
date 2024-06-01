@@ -28,7 +28,7 @@ jobs:
         with:
           ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
 
-      - name: Copy docker-compose.yml to VPS
+      - name: Copying files
         run: |
           scp -o StrictHostKeyChecking=no -P ${{ secrets.SSH_PORT }} docker-compose.yml ${{ secrets.SSH_USERNAME }}@${{ secrets.SSH_HOST }}:/home/dera.abdul/docker-compose.yml
 
@@ -49,5 +49,6 @@ jobs:
         run: |
           ssh -o StrictHostKeyChecking=no -p ${{ secrets.SSH_PORT }} ${{ secrets.SSH_USERNAME }}@${{ secrets.SSH_HOST }} << 'EOF'
             # Run Docker Compose
-            docker-compose /home/dera.abdul/docker-compose.yml up -d
+            cd /home/dera.abdul/
+            docker-compose up -d
           EOF
