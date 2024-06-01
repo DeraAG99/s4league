@@ -28,7 +28,7 @@ jobs:
         with:
           ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
 
-      - name: Deploy on VPS
+      - name: Pulling Image
         run: |
           ssh -o StrictHostKeyChecking=no -p ${{ secrets.SSH_PORT }} ${{ secrets.SSH_USERNAME }}@${{ secrets.SSH_HOST }} << 'EOF'
             docker stop s4lauth || true
@@ -39,5 +39,8 @@ jobs:
             docker rmi ${{ secrets.DOCKER_USERNAME }}/s4lgame:latest || true
             docker pull ${{ secrets.DOCKER_USERNAME }}/s4lauth:latest
             docker pull ${{ secrets.DOCKER_USERNAME }}/s4lgame:latest
-            docker-compose up -d
           EOF
+
+      - name: Deploying
+        run: |
+          docker-compose up -d
