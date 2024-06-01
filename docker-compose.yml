@@ -7,12 +7,12 @@ services:
   s4lauth:
     image: dera99/s4lauth:latest
     environment:
-      DB_HOST: ${{ secrets.DB_HOST }}
-      DB_PORT: ${{ secrets.DB_PORT }}
-      DB_USERNAME: ${{ secrets.DB_USERNAME }}
-      DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
-      DB_DATABASE: ${{ secrets.DB_DATABASE }}
-      API_AUTH: ${{ secrets.API_AUTH }}
+      DB_HOST: ${DB_HOST}
+      DB_PORT: ${DB_PORT}
+      DB_USERNAME: ${DB_USERNAME}
+      DB_PASSWORD: ${DB_PASSWORD}
+      DB_DATABASE: ${DB_DATABASE}
+      API_AUTH: ${API_AUTH}
     ports:
       - 28001:28001
       - 28002:28002
@@ -23,14 +23,14 @@ services:
   s4lgame:
     image: dera99/s4lgame:latest
     environment:
-      DB_HOST: ${{ secrets.DB_HOST }}
-      DB_PORT: ${{ secrets.DB_PORT }}
-      DB_USERNAME: ${{ secrets.DB_USERNAME }}
-      DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
-      DB_DATABASE: ${{ secrets.DB_DATABASE }}
-      API_AUTH: ${{ secrets.API_AUTH }}
-      API_GAME: ${{ secrets.API_GAME }}
-      IP_SERVER: ${{ secrets.IP_SERVER }}
+      DB_HOST: ${DB_HOST}
+      DB_PORT: ${DB_PORT}
+      DB_USERNAME: ${DB_USERNAME}
+      DB_PASSWORD: ${DB_PASSWORD}
+      DB_DATABASE: ${DB_DATABASE}
+      API_AUTH: ${API_AUTH}
+      API_GAME: ${API_GAME}
+      IP_SERVER: ${IP_SERVER}
     ports:
       - 28003:28003
       - 28004:28004
