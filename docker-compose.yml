@@ -27,6 +27,8 @@ services:
       - s4lnetwork
     volumes:
       - /home/dera.abdul/GameServer.hjson:/app/data/GameServer.hjson
+    depends_on:
+      - s4lauth
     tty: true
     stdin_open: true
 
