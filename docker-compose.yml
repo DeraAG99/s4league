@@ -26,6 +26,7 @@ services:
       DB_DATABASE: ${DB_DATABASE}
       API_AUTH: ${API_AUTH}
       API_GAME: ${API_GAME}
+      IP_SERVER: ${IP_SERVER}
     ports:
       - 28003:28003
       - 28004:28004
