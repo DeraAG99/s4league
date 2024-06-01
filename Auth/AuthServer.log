@@ -1,0 +1,711 @@
+2021-08-15 23:39:45.723 +02:00 [INF] Initializing...
+2021-08-15 23:39:46.372 +02:00 [INF] Starting Server
+2021-08-15 23:39:46.379 +02:00 [INF] Cached xbnfile: XBN//ConstantInfo.xbn
+2021-08-15 23:39:46.380 +02:00 [INF] Cached xbnfile: XBN//Actions.xbn
+2021-08-15 23:39:46.382 +02:00 [INF] Cached xbnfile: XBN//Weapons.xbn
+2021-08-15 23:39:46.383 +02:00 [INF] Cached xbnfile: XBN//Effects.xbn
+2021-08-15 23:39:46.384 +02:00 [INF] Cached xbnfile: XBN//EffectMatch.xbn
+2021-08-15 23:39:46.384 +02:00 [INF] Cached xbnfile: XBN//EnchantData.xbn
+2021-08-15 23:39:46.385 +02:00 [INF] Cached xbnfile: XBN//EquipLimit.xbn
+2021-08-15 23:39:46.387 +02:00 [INF] Cached xbnfile: XBN//PveList.xbn
+2021-08-15 23:39:46.388 +02:00 [INF] Cached xbnfile: XBN//MonsterWaveList.xbn
+2021-08-15 23:39:46.388 +02:00 [INF] Cached xbnfile: XBN//EsperActionlist.xbn
+2021-08-15 23:39:46.389 +02:00 [INF] Cached xbnfile: XBN//WeaponTypeReloadInfo.xbn
+2021-08-15 23:39:46.392 +02:00 [INF] Cached xbnfile: XBN//RangeLimit.xbn
+2021-08-15 23:39:46.556 +02:00 [INF] Ready for connections!
+2021-08-15 23:39:46.557 +02:00 [WRN] !!! NOOB MODE IS ENABLED! EVERY LOGIN SUCCEEDS AND OVERRIDES ACCOUNT LOGIN DETAILS !!!
+2021-08-15 23:39:51.826 +02:00 [INF] Added server with valid apikey: test(1)
+2021-08-15 23:41:09.306 +02:00 [INF] Removed server test(1)
+2021-08-15 23:41:21.918 +02:00 [INF] Initializing...
+2021-08-15 23:41:22.604 +02:00 [INF] Starting Server
+2021-08-15 23:41:22.611 +02:00 [INF] Cached xbnfile: XBN//ConstantInfo.xbn
+2021-08-15 23:41:22.613 +02:00 [INF] Cached xbnfile: XBN//Actions.xbn
+2021-08-15 23:41:22.614 +02:00 [INF] Cached xbnfile: XBN//Weapons.xbn
+2021-08-15 23:41:22.615 +02:00 [INF] Cached xbnfile: XBN//Effects.xbn
+2021-08-15 23:41:22.616 +02:00 [INF] Cached xbnfile: XBN//EffectMatch.xbn
+2021-08-15 23:41:22.617 +02:00 [INF] Cached xbnfile: XBN//EnchantData.xbn
+2021-08-15 23:41:22.619 +02:00 [INF] Cached xbnfile: XBN//EquipLimit.xbn
+2021-08-15 23:41:22.620 +02:00 [INF] Cached xbnfile: XBN//PveList.xbn
+2021-08-15 23:41:22.621 +02:00 [INF] Cached xbnfile: XBN//MonsterWaveList.xbn
+2021-08-15 23:41:22.622 +02:00 [INF] Cached xbnfile: XBN//EsperActionlist.xbn
+2021-08-15 23:41:22.624 +02:00 [INF] Cached xbnfile: XBN//WeaponTypeReloadInfo.xbn
+2021-08-15 23:41:22.625 +02:00 [INF] Cached xbnfile: XBN//RangeLimit.xbn
+2021-08-15 23:41:22.830 +02:00 [INF] Ready for connections!
+2021-08-15 23:41:22.831 +02:00 [WRN] !!! NOOB MODE IS ENABLED! EVERY LOGIN SUCCEEDS AND OVERRIDES ACCOUNT LOGIN DETAILS !!!
+2021-08-15 23:41:25.305 +02:00 [INF] Added server with valid apikey: test(1)
+2021-08-15 23:41:35.766 +02:00 [INF] Authentication login from [::ffff:127.0.0.1]:57526
+2021-08-15 23:41:35.977 +02:00 [INF] Authentication success for godby69
+2021-08-15 23:42:24.441 +02:00 [INF] Login from 127.0.0.1
+2021-08-15 23:42:24.580 +02:00 [INF] Login success for godby69
+2021-08-15 23:49:21.309 +02:00 [INF] Removed server test(1)
+2021-08-15 23:51:38.943 +02:00 [INF] Initializing...
+2021-08-15 23:51:39.544 +02:00 [INF] Starting Server
+2021-08-15 23:51:39.551 +02:00 [INF] Cached xbnfile: XBN//ConstantInfo.xbn
+2021-08-15 23:51:39.552 +02:00 [INF] Cached xbnfile: XBN//Actions.xbn
+2021-08-15 23:51:39.553 +02:00 [INF] Cached xbnfile: XBN//Weapons.xbn
+2021-08-15 23:51:39.554 +02:00 [INF] Cached xbnfile: XBN//Effects.xbn
+2021-08-15 23:51:39.555 +02:00 [INF] Cached xbnfile: XBN//EffectMatch.xbn
+2021-08-15 23:51:39.556 +02:00 [INF] Cached xbnfile: XBN//EnchantData.xbn
+2021-08-15 23:51:39.557 +02:00 [INF] Cached xbnfile: XBN//EquipLimit.xbn
+2021-08-15 23:51:39.558 +02:00 [INF] Cached xbnfile: XBN//PveList.xbn
+2021-08-15 23:51:39.559 +02:00 [INF] Cached xbnfile: XBN//MonsterWaveList.xbn
+2021-08-15 23:51:39.560 +02:00 [INF] Cached xbnfile: XBN//EsperActionlist.xbn
+2021-08-15 23:51:39.561 +02:00 [INF] Cached xbnfile: XBN//WeaponTypeReloadInfo.xbn
+2021-08-15 23:51:39.562 +02:00 [INF] Cached xbnfile: XBN//RangeLimit.xbn
+2021-08-15 23:51:39.779 +02:00 [INF] Ready for connections!
+2021-08-15 23:51:39.781 +02:00 [WRN] !!! NOOB MODE IS ENABLED! EVERY LOGIN SUCCEEDS AND OVERRIDES ACCOUNT LOGIN DETAILS !!!
+2021-08-15 23:51:43.895 +02:00 [INF] Added server with valid apikey: test(1)
+2021-08-15 23:51:57.134 +02:00 [INF] Authentication login from [::ffff:127.0.0.1]:57836
+2021-08-15 23:51:57.301 +02:00 [INF] Authentication success for godby69
+2021-08-15 23:52:24.177 +02:00 [INF] Login from 127.0.0.1
+2021-08-15 23:52:24.224 +02:00 [INF] Login success for godby69
+2021-08-15 23:53:41.589 +02:00 [INF] Authentication login from [::ffff:127.0.0.1]:59246
+2021-08-15 23:53:41.626 +02:00 [INF] Authentication success for godby69
+2021-08-15 23:54:24.293 +02:00 [INF] Login from 127.0.0.1
+2021-08-15 23:54:24.294 +02:00 [INF] Login success for godby69
+2021-08-15 23:56:57.186 +02:00 [INF] Initializing...
+2021-08-15 23:56:57.969 +02:00 [INF] Starting Server
+2021-08-15 23:56:57.977 +02:00 [INF] Cached xbnfile: XBN//ConstantInfo.xbn
+2021-08-15 23:56:57.978 +02:00 [INF] Cached xbnfile: XBN//Actions.xbn
+2021-08-15 23:56:57.980 +02:00 [INF] Cached xbnfile: XBN//Weapons.xbn
+2021-08-15 23:56:57.981 +02:00 [INF] Cached xbnfile: XBN//Effects.xbn
+2021-08-15 23:56:57.983 +02:00 [INF] Cached xbnfile: XBN//EffectMatch.xbn
+2021-08-15 23:56:57.984 +02:00 [INF] Cached xbnfile: XBN//EnchantData.xbn
+2021-08-15 23:56:57.985 +02:00 [INF] Cached xbnfile: XBN//EquipLimit.xbn
+2021-08-15 23:56:57.987 +02:00 [INF] Cached xbnfile: XBN//PveList.xbn
+2021-08-15 23:56:57.989 +02:00 [INF] Cached xbnfile: XBN//MonsterWaveList.xbn
+2021-08-15 23:56:57.990 +02:00 [INF] Cached xbnfile: XBN//EsperActionlist.xbn
+2021-08-15 23:56:57.992 +02:00 [INF] Cached xbnfile: XBN//WeaponTypeReloadInfo.xbn
+2021-08-15 23:56:57.993 +02:00 [INF] Cached xbnfile: XBN//RangeLimit.xbn
+2021-08-15 23:56:58.185 +02:00 [INF] Ready for connections!
+2021-08-15 23:56:58.186 +02:00 [WRN] !!! NOOB MODE IS ENABLED! EVERY LOGIN SUCCEEDS AND OVERRIDES ACCOUNT LOGIN DETAILS !!!
+2021-08-15 23:57:04.352 +02:00 [INF] Added server with valid apikey: test(1)
+2021-08-15 23:58:08.724 +02:00 [INF] Authentication login from [::ffff:127.0.0.1]:59221
+2021-08-15 23:58:08.905 +02:00 [INF] Authentication success for godby69
+2021-08-15 23:58:49.309 +02:00 [INF] Login from 127.0.0.1
+2021-08-15 23:58:49.358 +02:00 [INF] Login success for godby69
+2021-08-16 00:00:32.216 +02:00 [INF] Removed server test(1)
+2021-08-16 21:28:44.376 +02:00 [INF] Initializing...
+2021-08-16 21:28:45.003 +02:00 [INF] Starting Server
+2021-08-16 21:28:45.010 +02:00 [INF] Cached xbnfile: XBN//ConstantInfo.xbn
+2021-08-16 21:28:45.012 +02:00 [INF] Cached xbnfile: XBN//Actions.xbn
+2021-08-16 21:28:45.013 +02:00 [INF] Cached xbnfile: XBN//Weapons.xbn
+2021-08-16 21:28:45.015 +02:00 [INF] Cached xbnfile: XBN//Effects.xbn
+2021-08-16 21:28:45.016 +02:00 [INF] Cached xbnfile: XBN//EffectMatch.xbn
+2021-08-16 21:28:45.018 +02:00 [INF] Cached xbnfile: XBN//EnchantData.xbn
+2021-08-16 21:28:45.019 +02:00 [INF] Cached xbnfile: XBN//EquipLimit.xbn
+2021-08-16 21:28:45.021 +02:00 [INF] Cached xbnfile: XBN//PveList.xbn
+2021-08-16 21:28:45.022 +02:00 [INF] Cached xbnfile: XBN//MonsterWaveList.xbn
+2021-08-16 21:28:45.023 +02:00 [INF] Cached xbnfile: XBN//EsperActionlist.xbn
+2021-08-16 21:28:45.025 +02:00 [INF] Cached xbnfile: XBN//WeaponTypeReloadInfo.xbn
+2021-08-16 21:28:45.026 +02:00 [INF] Cached xbnfile: XBN//RangeLimit.xbn
+2021-08-16 21:28:45.256 +02:00 [INF] Ready for connections!
+2021-08-16 21:28:45.259 +02:00 [WRN] !!! NOOB MODE IS ENABLED! EVERY LOGIN SUCCEEDS AND OVERRIDES ACCOUNT LOGIN DETAILS !!!
+2021-08-16 21:28:48.959 +02:00 [INF] Added server with valid apikey: test(1)
+2021-08-16 21:29:42.460 +02:00 [INF] Authentication login from [::ffff:127.0.0.1]:51046
+2021-08-16 21:29:42.675 +02:00 [INF] Authentication success for rgergergerger
+2021-08-16 21:29:49.631 +02:00 [INF] Authentication login from [::ffff:127.0.0.1]:51049
+2021-08-16 21:29:49.697 +02:00 [INF] Authentication success for godc69
+2021-08-16 21:30:48.437 +02:00 [INF] Login from 127.0.0.1
+2021-08-16 21:30:48.538 +02:00 [INF] Login success for godc69
+2021-08-16 21:31:55.351 +02:00 [INF] Authentication login from [::ffff:127.0.0.1]:51065
+2021-08-16 21:31:55.387 +02:00 [INF] Authentication success for godc69
+2021-08-16 21:32:33.059 +02:00 [INF] Login from 127.0.0.1
+2021-08-16 21:32:33.061 +02:00 [INF] Login success for godc69
+2021-08-16 21:45:31.722 +02:00 [INF] Session login from 127.0.0.1
+2021-08-16 21:45:31.726 +02:00 [INF] Login success for godc69
+2021-08-16 21:45:49.346 +02:00 [INF] Session login from 127.0.0.1
+2021-08-16 21:45:49.348 +02:00 [INF] Login success for godc69
+2021-08-16 21:49:55.906 +02:00 [INF] Authentication login from [::ffff:127.0.0.1]:64935
+2021-08-16 21:49:55.965 +02:00 [INF] Authentication success for godc69
+2021-08-16 21:50:36.605 +02:00 [INF] Login from 127.0.0.1
+2021-08-16 21:50:36.607 +02:00 [INF] Login success for godc69
+2021-08-16 21:58:13.817 +02:00 [INF] Authentication login from [::ffff:127.0.0.1]:53231
+2021-08-16 21:58:13.861 +02:00 [INF] Authentication success for godc69
+2021-08-16 21:59:54.470 +02:00 [INF] Removed server test(1)
+2021-08-17 12:51:50.991 +02:00 [INF] Initializing...
+2021-08-17 12:51:52.009 +02:00 [INF] Starting Server
+2021-08-17 12:51:52.018 +02:00 [INF] Cached xbnfile: XBN//ConstantInfo.xbn
+2021-08-17 12:51:52.019 +02:00 [INF] Cached xbnfile: XBN//Actions.xbn
+2021-08-17 12:51:52.021 +02:00 [INF] Cached xbnfile: XBN//Weapons.xbn
+2021-08-17 12:51:52.023 +02:00 [INF] Cached xbnfile: XBN//Effects.xbn
+2021-08-17 12:51:52.025 +02:00 [INF] Cached xbnfile: XBN//EffectMatch.xbn
+2021-08-17 12:51:52.030 +02:00 [INF] Cached xbnfile: XBN//EnchantData.xbn
+2021-08-17 12:51:52.032 +02:00 [INF] Cached xbnfile: XBN//EquipLimit.xbn
+2021-08-17 12:51:52.034 +02:00 [INF] Cached xbnfile: XBN//PveList.xbn
+2021-08-17 12:51:52.036 +02:00 [INF] Cached xbnfile: XBN//MonsterWaveList.xbn
+2021-08-17 12:51:52.037 +02:00 [INF] Cached xbnfile: XBN//EsperActionlist.xbn
+2021-08-17 12:51:52.040 +02:00 [INF] Cached xbnfile: XBN//WeaponTypeReloadInfo.xbn
+2021-08-17 12:51:52.041 +02:00 [INF] Cached xbnfile: XBN//RangeLimit.xbn
+2021-08-17 12:51:52.328 +02:00 [INF] Ready for connections!
+2021-08-17 12:51:52.332 +02:00 [WRN] !!! NOOB MODE IS ENABLED! EVERY LOGIN SUCCEEDS AND OVERRIDES ACCOUNT LOGIN DETAILS !!!
+2021-08-17 12:51:54.041 +02:00 [INF] Added server with valid apikey: test(1)
+2021-08-17 12:52:50.213 +02:00 [INF] Authentication login from [::ffff:127.0.0.1]:59408
+2021-08-17 12:52:50.361 +02:00 [ERR] MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'IsConnect' in 'field list'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in C:\projects\dapper\Dapper\SqlMapper.cs:line 1053
+   at Dapper.SqlMapper.<QueryImpl>d__138`1.MoveNext() in C:\projects\dapper\Dapper\SqlMapper.cs:line 1081
+   at System.Collections.Generic.List`1.AddEnumerable(IEnumerable`1 enumerable)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in C:\projects\dapper\Dapper\SqlMapper.cs:line 723
+   at Dapper.FastCrud.SqlStatements.GenericSqlStatements`1.BatchSelect(IDbConnection connection, AggregatedSqlStatementOptions`1 statementOptions) in D:\a\1\s\Dapper.FastCrud\SqlStatements\GenericSqlStatements.cs:line 297
+   at NeoNetsphere.LoginAPI.LoginServerHandler.<LoginAsync>d__6.MoveNext() in C:\Users\Instint\Desktop\Clients\NeoNetspherePirates\src\AuthServer\LoginAPI\LoginServerHandler.cs:line 130
+2021-08-18 21:27:11.421 +02:00 [INF] Initializing...
+2021-08-18 21:27:12.958 +02:00 [INF] Starting Server
+2021-08-18 21:27:12.996 +02:00 [INF] Cached xbnfile: XBN//ConstantInfo.xbn
+2021-08-18 21:27:13.016 +02:00 [INF] Cached xbnfile: XBN//Actions.xbn
+2021-08-18 21:27:13.028 +02:00 [INF] Cached xbnfile: XBN//Weapons.xbn
+2021-08-18 21:27:13.040 +02:00 [INF] Cached xbnfile: XBN//Effects.xbn
+2021-08-18 21:27:13.048 +02:00 [INF] Cached xbnfile: XBN//EffectMatch.xbn
+2021-08-18 21:27:13.055 +02:00 [INF] Cached xbnfile: XBN//EnchantData.xbn
+2021-08-18 21:27:13.063 +02:00 [INF] Cached xbnfile: XBN//EquipLimit.xbn
+2021-08-18 21:27:13.075 +02:00 [INF] Cached xbnfile: XBN//PveList.xbn
+2021-08-18 21:27:13.084 +02:00 [INF] Cached xbnfile: XBN//MonsterWaveList.xbn
+2021-08-18 21:27:13.090 +02:00 [INF] Cached xbnfile: XBN//EsperActionlist.xbn
+2021-08-18 21:27:13.097 +02:00 [INF] Cached xbnfile: XBN//WeaponTypeReloadInfo.xbn
+2021-08-18 21:27:13.105 +02:00 [INF] Cached xbnfile: XBN//RangeLimit.xbn
+2021-08-18 21:27:13.811 +02:00 [INF] Ready for connections!
+2021-08-18 21:27:13.815 +02:00 [WRN] !!! NOOB MODE IS ENABLED! EVERY LOGIN SUCCEEDS AND OVERRIDES ACCOUNT LOGIN DETAILS !!!
+2021-08-18 21:27:17.217 +02:00 [INF] Added server with valid apikey: test(1)
+2021-08-18 21:27:30.735 +02:00 [INF] Authentication login from [::ffff:127.0.0.1]:50046
+2021-08-18 21:27:30.953 +02:00 [INF] Authentication success for suguha69
+2021-08-18 21:29:33.102 +02:00 [INF] Authentication login from [::ffff:127.0.0.1]:56498
+2021-08-18 21:29:33.149 +02:00 [INF] Authentication success for suguha69
+2021-08-18 21:29:47.377 +02:00 [INF] Removed server test(1)
+2021-08-18 22:03:13.703 +02:00 [INF] Initializing...
+2021-08-18 22:03:15.044 +02:00 [INF] Starting Server
+2021-08-18 22:03:15.069 +02:00 [INF] Cached xbnfile: XBN//ConstantInfo.xbn
+2021-08-18 22:03:15.079 +02:00 [INF] Cached xbnfile: XBN//Actions.xbn
+2021-08-18 22:03:15.080 +02:00 [INF] Cached xbnfile: XBN//Weapons.xbn
+2021-08-18 22:03:15.082 +02:00 [INF] Cached xbnfile: XBN//Effects.xbn
+2021-08-18 22:03:15.084 +02:00 [INF] Cached xbnfile: XBN//EffectMatch.xbn
+2021-08-18 22:03:15.087 +02:00 [INF] Cached xbnfile: XBN//EnchantData.xbn
+2021-08-18 22:03:15.088 +02:00 [INF] Cached xbnfile: XBN//EquipLimit.xbn
+2021-08-18 22:03:15.090 +02:00 [INF] Cached xbnfile: XBN//PveList.xbn
+2021-08-18 22:03:15.091 +02:00 [INF] Cached xbnfile: XBN//MonsterWaveList.xbn
+2021-08-18 22:03:15.093 +02:00 [INF] Cached xbnfile: XBN//EsperActionlist.xbn
+2021-08-18 22:03:15.095 +02:00 [INF] Cached xbnfile: XBN//WeaponTypeReloadInfo.xbn
+2021-08-18 22:03:15.096 +02:00 [INF] Cached xbnfile: XBN//RangeLimit.xbn
+2021-08-18 22:03:15.388 +02:00 [INF] Ready for connections!
+2021-08-18 22:03:15.390 +02:00 [WRN] !!! NOOB MODE IS ENABLED! EVERY LOGIN SUCCEEDS AND OVERRIDES ACCOUNT LOGIN DETAILS !!!
+2021-08-18 22:03:20.355 +02:00 [INF] Added server with valid apikey: test(1)
+2021-08-18 22:04:44.750 +02:00 [INF] Authentication login from [::ffff:127.0.0.1]:55869
+2021-08-18 22:04:44.930 +02:00 [INF] Authentication success for suguha69
+2021-08-18 22:05:24.091 +02:00 [INF] Login from 127.0.0.1
+2021-08-18 22:05:24.157 +02:00 [INF] Login success for suguha69
+2021-08-18 22:05:41.018 +02:00 [INF] Removed server test(1)
+2024-05-16 14:08:52.029 +07:00 [INF] Initializing...
+2024-05-16 14:08:55.311 +07:00 [ERR] UnhandledException
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts. ---> System.AggregateException: One or more errors occurred. (No such host is known) ---> System.Net.Sockets.SocketException: No such host is known
+   at System.Net.Dns.HostResolutionEndHelper(IAsyncResult asyncResult)
+   at System.Net.Dns.EndGetHostAddresses(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.DoDnsCallback(IAsyncResult result, MultipleAddressConnectAsyncResult context)
+   at System.Net.Sockets.Socket.DnsCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.<>c.<ConnectAsync>b__28_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at MySql.Data.Common.StreamCreator.GetTcpStream(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+---> (Inner Exception #0) System.Net.Sockets.SocketException (11001): No such host is known
+   at System.Net.Dns.HostResolutionEndHelper(IAsyncResult asyncResult)
+   at System.Net.Dns.EndGetHostAddresses(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.DoDnsCallback(IAsyncResult result, MultipleAddressConnectAsyncResult context)
+   at System.Net.Sockets.Socket.DnsCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.<>c.<ConnectAsync>b__28_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)<---
+
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at NeoNetsphere.AuthDatabase.Open() in C:\Users\Instint\Desktop\Clients\NeoNetspherePirates\src\AuthServer\Program.cs:line 271
+   at NeoNetsphere.AuthDatabase.Initialize() in C:\Users\Instint\Desktop\Clients\NeoNetspherePirates\src\AuthServer\Program.cs:line 221
+   at NeoNetsphere.Program.Main() in C:\Users\Instint\Desktop\Clients\NeoNetspherePirates\src\AuthServer\Program.cs:line 101
+2024-05-16 14:09:00.171 +07:00 [INF] Initializing...
+2024-05-16 14:09:03.270 +07:00 [ERR] UnhandledException
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts. ---> System.AggregateException: One or more errors occurred. (No such host is known) ---> System.Net.Sockets.SocketException: No such host is known
+   at System.Net.Dns.HostResolutionEndHelper(IAsyncResult asyncResult)
+   at System.Net.Dns.EndGetHostAddresses(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.DoDnsCallback(IAsyncResult result, MultipleAddressConnectAsyncResult context)
+   at System.Net.Sockets.Socket.DnsCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.<>c.<ConnectAsync>b__28_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at MySql.Data.Common.StreamCreator.GetTcpStream(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+---> (Inner Exception #0) System.Net.Sockets.SocketException (11001): No such host is known
+   at System.Net.Dns.HostResolutionEndHelper(IAsyncResult asyncResult)
+   at System.Net.Dns.EndGetHostAddresses(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.DoDnsCallback(IAsyncResult result, MultipleAddressConnectAsyncResult context)
+   at System.Net.Sockets.Socket.DnsCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.<>c.<ConnectAsync>b__28_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)<---
+
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at NeoNetsphere.AuthDatabase.Open() in C:\Users\Instint\Desktop\Clients\NeoNetspherePirates\src\AuthServer\Program.cs:line 271
+   at NeoNetsphere.AuthDatabase.Initialize() in C:\Users\Instint\Desktop\Clients\NeoNetspherePirates\src\AuthServer\Program.cs:line 221
+   at NeoNetsphere.Program.Main() in C:\Users\Instint\Desktop\Clients\NeoNetspherePirates\src\AuthServer\Program.cs:line 101
+2024-05-16 14:09:13.486 +07:00 [INF] Initializing...
+2024-05-16 14:09:16.589 +07:00 [ERR] UnhandledException
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts. ---> System.AggregateException: One or more errors occurred. (No such host is known) ---> System.Net.Sockets.SocketException: No such host is known
+   at System.Net.Dns.HostResolutionEndHelper(IAsyncResult asyncResult)
+   at System.Net.Dns.EndGetHostAddresses(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.DoDnsCallback(IAsyncResult result, MultipleAddressConnectAsyncResult context)
+   at System.Net.Sockets.Socket.DnsCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.<>c.<ConnectAsync>b__28_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at MySql.Data.Common.StreamCreator.GetTcpStream(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+---> (Inner Exception #0) System.Net.Sockets.SocketException (11001): No such host is known
+   at System.Net.Dns.HostResolutionEndHelper(IAsyncResult asyncResult)
+   at System.Net.Dns.EndGetHostAddresses(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.DoDnsCallback(IAsyncResult result, MultipleAddressConnectAsyncResult context)
+   at System.Net.Sockets.Socket.DnsCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.<>c.<ConnectAsync>b__28_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)<---
+
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at NeoNetsphere.AuthDatabase.Open() in C:\Users\Instint\Desktop\Clients\NeoNetspherePirates\src\AuthServer\Program.cs:line 271
+   at NeoNetsphere.AuthDatabase.Initialize() in C:\Users\Instint\Desktop\Clients\NeoNetspherePirates\src\AuthServer\Program.cs:line 221
+   at NeoNetsphere.Program.Main() in C:\Users\Instint\Desktop\Clients\NeoNetspherePirates\src\AuthServer\Program.cs:line 101
+2024-05-16 14:09:26.782 +07:00 [INF] Initializing...
+2024-05-16 14:09:29.867 +07:00 [ERR] UnhandledException
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts. ---> System.AggregateException: One or more errors occurred. (No such host is known) ---> System.Net.Sockets.SocketException: No such host is known
+   at System.Net.Dns.HostResolutionEndHelper(IAsyncResult asyncResult)
+   at System.Net.Dns.EndGetHostAddresses(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.DoDnsCallback(IAsyncResult result, MultipleAddressConnectAsyncResult context)
+   at System.Net.Sockets.Socket.DnsCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.<>c.<ConnectAsync>b__28_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at MySql.Data.Common.StreamCreator.GetTcpStream(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+---> (Inner Exception #0) System.Net.Sockets.SocketException (11001): No such host is known
+   at System.Net.Dns.HostResolutionEndHelper(IAsyncResult asyncResult)
+   at System.Net.Dns.EndGetHostAddresses(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.DoDnsCallback(IAsyncResult result, MultipleAddressConnectAsyncResult context)
+   at System.Net.Sockets.Socket.DnsCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.<>c.<ConnectAsync>b__28_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)<---
+
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at NeoNetsphere.AuthDatabase.Open() in C:\Users\Instint\Desktop\Clients\NeoNetspherePirates\src\AuthServer\Program.cs:line 271
+   at NeoNetsphere.AuthDatabase.Initialize() in C:\Users\Instint\Desktop\Clients\NeoNetspherePirates\src\AuthServer\Program.cs:line 221
+   at NeoNetsphere.Program.Main() in C:\Users\Instint\Desktop\Clients\NeoNetspherePirates\src\AuthServer\Program.cs:line 101
+2024-05-16 14:09:39.154 +07:00 [INF] Initializing...
+2024-05-16 14:09:42.237 +07:00 [ERR] UnhandledException
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts. ---> System.AggregateException: One or more errors occurred. (No such host is known) ---> System.Net.Sockets.SocketException: No such host is known
+   at System.Net.Dns.HostResolutionEndHelper(IAsyncResult asyncResult)
+   at System.Net.Dns.EndGetHostAddresses(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.DoDnsCallback(IAsyncResult result, MultipleAddressConnectAsyncResult context)
+   at System.Net.Sockets.Socket.DnsCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.<>c.<ConnectAsync>b__28_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at MySql.Data.Common.StreamCreator.GetTcpStream(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+---> (Inner Exception #0) System.Net.Sockets.SocketException (11001): No such host is known
+   at System.Net.Dns.HostResolutionEndHelper(IAsyncResult asyncResult)
+   at System.Net.Dns.EndGetHostAddresses(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.DoDnsCallback(IAsyncResult result, MultipleAddressConnectAsyncResult context)
+   at System.Net.Sockets.Socket.DnsCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.<>c.<ConnectAsync>b__28_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)<---
+
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at NeoNetsphere.AuthDatabase.Open() in C:\Users\Instint\Desktop\Clients\NeoNetspherePirates\src\AuthServer\Program.cs:line 271
+   at NeoNetsphere.AuthDatabase.Initialize() in C:\Users\Instint\Desktop\Clients\NeoNetspherePirates\src\AuthServer\Program.cs:line 221
+   at NeoNetsphere.Program.Main() in C:\Users\Instint\Desktop\Clients\NeoNetspherePirates\src\AuthServer\Program.cs:line 101
+2024-05-16 14:21:16.016 +07:00 [INF] Initializing...
+2024-05-16 14:21:19.103 +07:00 [ERR] UnhandledException
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts. ---> System.AggregateException: One or more errors occurred. (No such host is known) ---> System.Net.Sockets.SocketException: No such host is known
+   at System.Net.Dns.HostResolutionEndHelper(IAsyncResult asyncResult)
+   at System.Net.Dns.EndGetHostAddresses(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.DoDnsCallback(IAsyncResult result, MultipleAddressConnectAsyncResult context)
+   at System.Net.Sockets.Socket.DnsCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.<>c.<ConnectAsync>b__28_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at MySql.Data.Common.StreamCreator.GetTcpStream(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+---> (Inner Exception #0) System.Net.Sockets.SocketException (11001): No such host is known
+   at System.Net.Dns.HostResolutionEndHelper(IAsyncResult asyncResult)
+   at System.Net.Dns.EndGetHostAddresses(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.DoDnsCallback(IAsyncResult result, MultipleAddressConnectAsyncResult context)
+   at System.Net.Sockets.Socket.DnsCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.<>c.<ConnectAsync>b__28_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)<---
+
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at NeoNetsphere.AuthDatabase.Open() in C:\Users\Instint\Desktop\Clients\NeoNetspherePirates\src\AuthServer\Program.cs:line 271
+   at NeoNetsphere.AuthDatabase.Initialize() in C:\Users\Instint\Desktop\Clients\NeoNetspherePirates\src\AuthServer\Program.cs:line 221
+   at NeoNetsphere.Program.Main() in C:\Users\Instint\Desktop\Clients\NeoNetspherePirates\src\AuthServer\Program.cs:line 101
+2024-05-16 14:21:36.597 +07:00 [INF] Initializing...
+2024-05-16 14:21:39.868 +07:00 [ERR] UnhandledException
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts. ---> System.AggregateException: One or more errors occurred. (No such host is known) ---> System.Net.Sockets.SocketException: No such host is known
+   at System.Net.Dns.HostResolutionEndHelper(IAsyncResult asyncResult)
+   at System.Net.Dns.EndGetHostAddresses(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.DoDnsCallback(IAsyncResult result, MultipleAddressConnectAsyncResult context)
+   at System.Net.Sockets.Socket.DnsCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.<>c.<ConnectAsync>b__28_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at MySql.Data.Common.StreamCreator.GetTcpStream(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+---> (Inner Exception #0) System.Net.Sockets.SocketException (11001): No such host is known
+   at System.Net.Dns.HostResolutionEndHelper(IAsyncResult asyncResult)
+   at System.Net.Dns.EndGetHostAddresses(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.DoDnsCallback(IAsyncResult result, MultipleAddressConnectAsyncResult context)
+   at System.Net.Sockets.Socket.DnsCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.<>c.<ConnectAsync>b__28_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)<---
+
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at NeoNetsphere.AuthDatabase.Open() in C:\Users\Instint\Desktop\Clients\NeoNetspherePirates\src\AuthServer\Program.cs:line 271
+   at NeoNetsphere.AuthDatabase.Initialize() in C:\Users\Instint\Desktop\Clients\NeoNetspherePirates\src\AuthServer\Program.cs:line 221
+   at NeoNetsphere.Program.Main() in C:\Users\Instint\Desktop\Clients\NeoNetspherePirates\src\AuthServer\Program.cs:line 101
+2024-05-16 14:21:55.929 +07:00 [INF] Initializing...
+2024-05-16 14:21:59.036 +07:00 [ERR] UnhandledException
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts. ---> System.AggregateException: One or more errors occurred. (No such host is known) ---> System.Net.Sockets.SocketException: No such host is known
+   at System.Net.Dns.HostResolutionEndHelper(IAsyncResult asyncResult)
+   at System.Net.Dns.EndGetHostAddresses(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.DoDnsCallback(IAsyncResult result, MultipleAddressConnectAsyncResult context)
+   at System.Net.Sockets.Socket.DnsCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.<>c.<ConnectAsync>b__28_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at MySql.Data.Common.StreamCreator.GetTcpStream(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+---> (Inner Exception #0) System.Net.Sockets.SocketException (11001): No such host is known
+   at System.Net.Dns.HostResolutionEndHelper(IAsyncResult asyncResult)
+   at System.Net.Dns.EndGetHostAddresses(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.DoDnsCallback(IAsyncResult result, MultipleAddressConnectAsyncResult context)
+   at System.Net.Sockets.Socket.DnsCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.<>c.<ConnectAsync>b__28_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)<---
+
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at NeoNetsphere.AuthDatabase.Open() in C:\Users\Instint\Desktop\Clients\NeoNetspherePirates\src\AuthServer\Program.cs:line 271
+   at NeoNetsphere.AuthDatabase.Initialize() in C:\Users\Instint\Desktop\Clients\NeoNetspherePirates\src\AuthServer\Program.cs:line 221
+   at NeoNetsphere.Program.Main() in C:\Users\Instint\Desktop\Clients\NeoNetspherePirates\src\AuthServer\Program.cs:line 101
+2024-05-16 14:23:59.007 +07:00 [INF] Initializing...
+2024-05-16 14:24:02.103 +07:00 [ERR] UnhandledException
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts. ---> System.AggregateException: One or more errors occurred. (No such host is known) ---> System.Net.Sockets.SocketException: No such host is known
+   at System.Net.Dns.HostResolutionEndHelper(IAsyncResult asyncResult)
+   at System.Net.Dns.EndGetHostAddresses(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.DoDnsCallback(IAsyncResult result, MultipleAddressConnectAsyncResult context)
+   at System.Net.Sockets.Socket.DnsCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.<>c.<ConnectAsync>b__28_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at MySql.Data.Common.StreamCreator.GetTcpStream(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+---> (Inner Exception #0) System.Net.Sockets.SocketException (11001): No such host is known
+   at System.Net.Dns.HostResolutionEndHelper(IAsyncResult asyncResult)
+   at System.Net.Dns.EndGetHostAddresses(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.DoDnsCallback(IAsyncResult result, MultipleAddressConnectAsyncResult context)
+   at System.Net.Sockets.Socket.DnsCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.<>c.<ConnectAsync>b__28_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)<---
+
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at NeoNetsphere.AuthDatabase.Open() in C:\Users\Instint\Desktop\Clients\NeoNetspherePirates\src\AuthServer\Program.cs:line 271
+   at NeoNetsphere.AuthDatabase.Initialize() in C:\Users\Instint\Desktop\Clients\NeoNetspherePirates\src\AuthServer\Program.cs:line 221
+   at NeoNetsphere.Program.Main() in C:\Users\Instint\Desktop\Clients\NeoNetspherePirates\src\AuthServer\Program.cs:line 101
+2024-05-16 14:27:47.011 +07:00 [INF] Initializing...
+2024-05-16 14:27:50.209 +07:00 [ERR] UnhandledException
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts. ---> System.AggregateException: One or more errors occurred. (No such host is known) ---> System.Net.Sockets.SocketException: No such host is known
+   at System.Net.Dns.HostResolutionEndHelper(IAsyncResult asyncResult)
+   at System.Net.Dns.EndGetHostAddresses(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.DoDnsCallback(IAsyncResult result, MultipleAddressConnectAsyncResult context)
+   at System.Net.Sockets.Socket.DnsCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.<>c.<ConnectAsync>b__28_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at MySql.Data.Common.StreamCreator.GetTcpStream(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+---> (Inner Exception #0) System.Net.Sockets.SocketException (11001): No such host is known
+   at System.Net.Dns.HostResolutionEndHelper(IAsyncResult asyncResult)
+   at System.Net.Dns.EndGetHostAddresses(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.DoDnsCallback(IAsyncResult result, MultipleAddressConnectAsyncResult context)
+   at System.Net.Sockets.Socket.DnsCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.<>c.<ConnectAsync>b__28_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)<---
+
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at NeoNetsphere.AuthDatabase.Open() in C:\Users\Instint\Desktop\Clients\NeoNetspherePirates\src\AuthServer\Program.cs:line 271
+   at NeoNetsphere.AuthDatabase.Initialize() in C:\Users\Instint\Desktop\Clients\NeoNetspherePirates\src\AuthServer\Program.cs:line 221
+   at NeoNetsphere.Program.Main() in C:\Users\Instint\Desktop\Clients\NeoNetspherePirates\src\AuthServer\Program.cs:line 101
+2024-05-16 14:42:46.038 +07:00 [INF] Initializing...
+2024-05-16 14:42:49.174 +07:00 [ERR] UnhandledException
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts. ---> System.AggregateException: One or more errors occurred. (No such host is known) ---> System.Net.Sockets.SocketException: No such host is known
+   at System.Net.Dns.HostResolutionEndHelper(IAsyncResult asyncResult)
+   at System.Net.Dns.EndGetHostAddresses(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.DoDnsCallback(IAsyncResult result, MultipleAddressConnectAsyncResult context)
+   at System.Net.Sockets.Socket.DnsCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.<>c.<ConnectAsync>b__28_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at MySql.Data.Common.StreamCreator.GetTcpStream(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+---> (Inner Exception #0) System.Net.Sockets.SocketException (11001): No such host is known
+   at System.Net.Dns.HostResolutionEndHelper(IAsyncResult asyncResult)
+   at System.Net.Dns.EndGetHostAddresses(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.DoDnsCallback(IAsyncResult result, MultipleAddressConnectAsyncResult context)
+   at System.Net.Sockets.Socket.DnsCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.<>c.<ConnectAsync>b__28_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)<---
+
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at NeoNetsphere.AuthDatabase.Open() in C:\Users\Instint\Desktop\Clients\NeoNetspherePirates\src\AuthServer\Program.cs:line 271
+   at NeoNetsphere.AuthDatabase.Initialize() in C:\Users\Instint\Desktop\Clients\NeoNetspherePirates\src\AuthServer\Program.cs:line 221
+   at NeoNetsphere.Program.Main() in C:\Users\Instint\Desktop\Clients\NeoNetspherePirates\src\AuthServer\Program.cs:line 101
+2024-05-16 17:39:24.767 +07:00 [INF] Initializing...
+2024-05-16 17:39:27.959 +07:00 [ERR] UnhandledException
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts. ---> System.AggregateException: One or more errors occurred. (No such host is known) ---> System.Net.Sockets.SocketException: No such host is known
+   at System.Net.Dns.HostResolutionEndHelper(IAsyncResult asyncResult)
+   at System.Net.Dns.EndGetHostAddresses(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.DoDnsCallback(IAsyncResult result, MultipleAddressConnectAsyncResult context)
+   at System.Net.Sockets.Socket.DnsCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.<>c.<ConnectAsync>b__28_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at MySql.Data.Common.StreamCreator.GetTcpStream(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+---> (Inner Exception #0) System.Net.Sockets.SocketException (11001): No such host is known
+   at System.Net.Dns.HostResolutionEndHelper(IAsyncResult asyncResult)
+   at System.Net.Dns.EndGetHostAddresses(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.DoDnsCallback(IAsyncResult result, MultipleAddressConnectAsyncResult context)
+   at System.Net.Sockets.Socket.DnsCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.<>c.<ConnectAsync>b__28_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)<---
+
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at NeoNetsphere.AuthDatabase.Open() in C:\Users\Instint\Desktop\Clients\NeoNetspherePirates\src\AuthServer\Program.cs:line 271
+   at NeoNetsphere.AuthDatabase.Initialize() in C:\Users\Instint\Desktop\Clients\NeoNetspherePirates\src\AuthServer\Program.cs:line 221
+   at NeoNetsphere.Program.Main() in C:\Users\Instint\Desktop\Clients\NeoNetspherePirates\src\AuthServer\Program.cs:line 101
+2024-05-16 18:20:20.200 +07:00 [INF] Initializing...
+2024-05-16 18:20:23.631 +07:00 [ERR] UnhandledException
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts. ---> System.AggregateException: One or more errors occurred. (No such host is known) ---> System.Net.Sockets.SocketException: No such host is known
+   at System.Net.Dns.HostResolutionEndHelper(IAsyncResult asyncResult)
+   at System.Net.Dns.EndGetHostAddresses(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.DoDnsCallback(IAsyncResult result, MultipleAddressConnectAsyncResult context)
+   at System.Net.Sockets.Socket.DnsCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.<>c.<ConnectAsync>b__28_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at MySql.Data.Common.StreamCreator.GetTcpStream(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+---> (Inner Exception #0) System.Net.Sockets.SocketException (11001): No such host is known
+   at System.Net.Dns.HostResolutionEndHelper(IAsyncResult asyncResult)
+   at System.Net.Dns.EndGetHostAddresses(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.DoDnsCallback(IAsyncResult result, MultipleAddressConnectAsyncResult context)
+   at System.Net.Sockets.Socket.DnsCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.<>c.<ConnectAsync>b__28_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)<---
+
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at NeoNetsphere.AuthDatabase.Open() in C:\Users\Instint\Desktop\Clients\NeoNetspherePirates\src\AuthServer\Program.cs:line 271
+   at NeoNetsphere.AuthDatabase.Initialize() in C:\Users\Instint\Desktop\Clients\NeoNetspherePirates\src\AuthServer\Program.cs:line 221
+   at NeoNetsphere.Program.Main() in C:\Users\Instint\Desktop\Clients\NeoNetspherePirates\src\AuthServer\Program.cs:line 101
+2024-05-16 19:57:49.620 +07:00 [INF] Initializing...
+2024-05-16 19:57:51.616 +07:00 [INF] Starting Server
+2024-05-16 19:57:51.625 +07:00 [INF] Cached xbnfile: XBN//ConstantInfo.xbn
+2024-05-16 19:57:51.637 +07:00 [INF] Cached xbnfile: XBN//Actions.xbn
+2024-05-16 19:57:51.639 +07:00 [INF] Cached xbnfile: XBN//Weapons.xbn
+2024-05-16 19:57:51.641 +07:00 [INF] Cached xbnfile: XBN//Effects.xbn
+2024-05-16 19:57:51.642 +07:00 [INF] Cached xbnfile: XBN//EffectMatch.xbn
+2024-05-16 19:57:51.645 +07:00 [INF] Cached xbnfile: XBN//EnchantData.xbn
+2024-05-16 19:57:51.646 +07:00 [INF] Cached xbnfile: XBN//EquipLimit.xbn
+2024-05-16 19:57:51.648 +07:00 [INF] Cached xbnfile: XBN//PveList.xbn
+2024-05-16 19:57:51.650 +07:00 [INF] Cached xbnfile: XBN//MonsterWaveList.xbn
+2024-05-16 19:57:51.652 +07:00 [INF] Cached xbnfile: XBN//EsperActionlist.xbn
+2024-05-16 19:57:51.654 +07:00 [INF] Cached xbnfile: XBN//WeaponTypeReloadInfo.xbn
+2024-05-16 19:57:51.655 +07:00 [INF] Cached xbnfile: XBN//RangeLimit.xbn
+2024-05-16 19:57:51.907 +07:00 [INF] Ready for connections!
+2024-05-16 19:57:51.910 +07:00 [WRN] !!! NOOB MODE IS ENABLED! EVERY LOGIN SUCCEEDS AND OVERRIDES ACCOUNT LOGIN DETAILS !!!

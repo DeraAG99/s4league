@@ -1,0 +1,43 @@
+name: Deploy to VPS
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Log in to Docker Hub
+        run: echo "${{ secrets.DOCKER_PASSWORD }}" | docker login -u "${{ secrets.DOCKER_USERNAME }}" --password-stdin
+
+      - name: Build and push Docker image
+        run: |
+          docker build -t ${{ secrets.DOCKER_USERNAME }}/s4lauth:latest ./Auth/
+          docker build -t ${{ secrets.DOCKER_USERNAME }}/s4lgame:latest ./Game/
+          docker push ${{ secrets.DOCKER_USERNAME }}/s4lauth:latest
+          docker push ${{ secrets.DOCKER_USERNAME }}/s4lgame:latest
+
+      - name: Setup SSH
+        uses: webfactory/ssh-agent@v0.5.3
+        with:
+          ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
+
+      - name: Deploy on VPS
+        run: |
+          ssh -o StrictHostKeyChecking=no -p ${{ secrets.SSH_PORT }} ${{ secrets.SSH_USERNAME }}@${{ secrets.SSH_HOST }} << 'EOF'
+            docker stop s4lauth || true
+            docker rm s4lauth || true
+            docker stop s4lgame || true
+            docker rm s4lgame || true
+            docker rmi ${{ secrets.DOCKER_USERNAME }}/s4lauth:latest || true
+            docker rmi ${{ secrets.DOCKER_USERNAME }}/s4lgame:latest || true
+            docker pull ${{ secrets.DOCKER_USERNAME }}/s4lauth:latest
+            docker pull ${{ secrets.DOCKER_USERNAME }}/s4lgame:latest
+            docker-compose up -d
+          EOF
