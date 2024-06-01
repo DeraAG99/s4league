@@ -1,5 +1,8 @@
 version: "3.8"
 
+networks:
+  s4lnetwork:
+
 services:
   s4lauth:
     image: dera99/s4lauth:latest
