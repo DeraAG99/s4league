@@ -45,25 +45,9 @@ jobs:
             docker pull ${{ secrets.DOCKER_USERNAME }}/s4lgame:latest
           EOF
 
-      - name: Create .env file on server
-        run: |
-          ssh -o StrictHostKeyChecking=no -p ${{ secrets.SSH_PORT }} ${{ secrets.SSH_USERNAME }}@${{ secrets.SSH_HOST }} << 'EOF'
-            echo "DB_HOST=${{ secrets.DB_HOST }}" > /home/dera.abdul/.env
-            echo "DB_PORT=${{ secrets.DB_PORT }}" >> /home/dera.abdul/.env
-            echo "DB_USERNAME=${{ secrets.DB_USERNAME }}" >> /home/dera.abdul/.env
-            echo "DB_PASSWORD=${{ secrets.DB_PASSWORD }}" >> /home/dera.abdul/.env
-            echo "DB_DATABASE=${{ secrets.DB_DATABASE }}" >> /home/dera.abdul/.env
-            echo "API_AUTH=${{ secrets.API_AUTH }}" >> /home/dera.abdul/.env
-            echo "API_GAME=${{ secrets.API_GAME }}" >> /home/dera.abdul/.env
-            echo "IP_SERVER=${{ secrets.IP_SERVER }}" >> /home/dera.abdul/.env
-          EOF
-
       - name: Deploying
         run: |
           ssh -o StrictHostKeyChecking=no -p ${{ secrets.SSH_PORT }} ${{ secrets.SSH_USERNAME }}@${{ secrets.SSH_HOST }} << 'EOF'
-            # Load environment variables from .env
-            set -o allexport; source /home/dera.abdul/.env; set +o allexport
-
             # Run Docker Compose
-            docker-compose -f /home/dera.abdul/docker-compose.yml up -d
+            docker-compose /home/dera.abdul/docker-compose.yml up -d
           EOF
