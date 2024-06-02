@@ -34,11 +34,11 @@ jobs:
           ssh -o StrictHostKeyChecking=no -p ${{ secrets.SSH_PORT }} ${{ secrets.SSH_USERNAME }}@${{ secrets.SSH_HOST }} << 'EOF'
             docker stop s4lauth || true
             docker rm s4lauth || true
+            docker rmi -f ${{ secrets.DOCKER_USERNAME }}/s4lauth:latest || true
+            docker pull ${{ secrets.DOCKER_USERNAME }}/s4lauth:latest
             docker stop s4lgame || true
             docker rm s4lgame || true
-            docker rmi ${{ secrets.DOCKER_USERNAME }}/s4lauth:latest || true
-            docker rmi ${{ secrets.DOCKER_USERNAME }}/s4lgame:latest || true
-            docker pull ${{ secrets.DOCKER_USERNAME }}/s4lauth:latest
+            docker rmi -f ${{ secrets.DOCKER_USERNAME }}/s4lgame:latest || true
             docker pull ${{ secrets.DOCKER_USERNAME }}/s4lgame:latest
           EOF
 
