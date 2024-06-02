@@ -49,6 +49,6 @@ jobs:
         run: |
           ssh -o StrictHostKeyChecking=no -p ${{ secrets.SSH_PORT }} ${{ secrets.SSH_USERNAME }}@${{ secrets.SSH_HOST }} << 'EOF'
             # Run Docker Compose
-            cd /home/dera.abdul/
+            cd /home/dera.abdul/s4league/config/
             docker-compose up -d
           EOF

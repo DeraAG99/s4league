@@ -11,7 +11,7 @@ services:
     networks:
       - s4lnetwork
     volumes:
-      - /home/dera.abdul/AuthServer.hjson:/app/data/AuthServer.hjson
+      - /home/dera.abdul/s4league/config/AuthServer.hjson:/app/data/AuthServer.hjson
     tty: true # Allocate a pseudo-TTY
     stdin_open: true # Keep stdin open even if not attached
 
@@ -26,7 +26,7 @@ services:
     networks:
       - s4lnetwork
     volumes:
-      - /home/dera.abdul/GameServer.hjson:/app/data/GameServer.hjson
+      - /home/dera.abdul/s4league/config/GameServer.hjson:/app/data/GameServer.hjson
     depends_on:
       - s4lauth
     tty: true
