@@ -33,7 +33,6 @@ jobs:
           scp -o StrictHostKeyChecking=no -P ${{ secrets.SSH_PORT }} docker-compose.yml ${{ secrets.SSH_USERNAME }}@${{ secrets.SSH_HOST }}:/home/dera.abdul/s4league/config/docker-compose.yml
 
           ssh -o StrictHostKeyChecking=no -p ${{ secrets.SSH_PORT }} ${{ secrets.SSH_USERNAME }}@${{ secrets.SSH_HOST }} << 'EOF'
-          cd /home/dera.abdul/s4league/config/
 
           # Remove old containers if they exist
           docker stop s4lauth || true
@@ -46,5 +45,6 @@ jobs:
           docker pull ${{ secrets.DOCKER_USERNAME }}/s4lgame:latest
 
           # Run Docker Compose
+          cd /home/dera.abdul/s4league/config
           docker-compose up -d
           EOF
