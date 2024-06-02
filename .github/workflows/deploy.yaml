@@ -28,12 +28,9 @@ jobs:
         with:
           ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
 
-      - name: Copying files
-        run: |
-          scp -o StrictHostKeyChecking=no -P ${{ secrets.SSH_PORT }} docker-compose.yml ${{ secrets.SSH_USERNAME }}@${{ secrets.SSH_HOST }}:/home/dera.abdul/s4league/config/docker-compose.yml
-
       - name: Pulling Image
         run: |
+          scp -o StrictHostKeyChecking=no -P ${{ secrets.SSH_PORT }} docker-compose.yml ${{ secrets.SSH_USERNAME }}@${{ secrets.SSH_HOST }}:/home/dera.abdul/s4league/config/docker-compose.yml
           ssh -o StrictHostKeyChecking=no -p ${{ secrets.SSH_PORT }} ${{ secrets.SSH_USERNAME }}@${{ secrets.SSH_HOST }} << 'EOF'
             docker stop s4lauth || true
             docker rm s4lauth || true
