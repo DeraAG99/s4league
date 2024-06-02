@@ -16,7 +16,7 @@ jobs:
       - name: Log in to Docker Hub
         run: echo "${{ secrets.DOCKER_PASSWORD }}" | docker login -u "${{ secrets.DOCKER_USERNAME }}" --password-stdin
 
-      - name: Build and push Docker image
+      - name: Build and push Docker images
         run: |
           docker build -t ${{ secrets.DOCKER_USERNAME }}/s4lauth:latest ./Auth/
           docker build -t ${{ secrets.DOCKER_USERNAME }}/s4lgame:latest ./Game/
@@ -28,24 +28,16 @@ jobs:
         with:
           ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
 
-      - name: Pulling Image
+      - name: Pulling and Deploying Images
         run: |
           scp -o StrictHostKeyChecking=no -P ${{ secrets.SSH_PORT }} docker-compose.yml ${{ secrets.SSH_USERNAME }}@${{ secrets.SSH_HOST }}:/home/dera.abdul/s4league/config/docker-compose.yml
-          ssh -o StrictHostKeyChecking=no -p ${{ secrets.SSH_PORT }} ${{ secrets.SSH_USERNAME }}@${{ secrets.SSH_HOST }} << 'EOF'
-            docker stop s4lauth || true
-            docker rm s4lauth || true
-            docker rmi -f ${{ secrets.DOCKER_USERNAME }}/s4lauth:latest || true
-            docker pull ${{ secrets.DOCKER_USERNAME }}/s4lauth:latest
-            docker stop s4lgame || true
-            docker rm s4lgame || true
-            docker rmi -f ${{ secrets.DOCKER_USERNAME }}/s4lgame:latest || true
-            docker pull ${{ secrets.DOCKER_USERNAME }}/s4lgame:latest
-          EOF
 
-      - name: Deploying
-        run: |
           ssh -o StrictHostKeyChecking=no -p ${{ secrets.SSH_PORT }} ${{ secrets.SSH_USERNAME }}@${{ secrets.SSH_HOST }} << 'EOF'
-            # Run Docker Compose
-            cd /home/dera.abdul/s4league/config/
-            docker-compose up -d
+          cd /home/dera.abdul/s4league/config/
+
+          # Pull images with force removal (consider security implications)
+          docker pull --force-rm ${{ secrets.DOCKER_USERNAME }}/s4lauth:latest
+          docker pull --force-rm ${{ secrets.DOCKER_USERNAME }}/s4lgame:latest
+
+          docker-compose up -d
           EOF
