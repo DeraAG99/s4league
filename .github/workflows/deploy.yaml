@@ -30,7 +30,7 @@ jobs:
 
       - name: Copying files
         run: |
-          scp -o StrictHostKeyChecking=no -P ${{ secrets.SSH_PORT }} docker-compose.yml ${{ secrets.SSH_USERNAME }}@${{ secrets.SSH_HOST }}:/home/dera.abdul/docker-compose.yml
+          scp -o StrictHostKeyChecking=no -P ${{ secrets.SSH_PORT }} docker-compose.yml ${{ secrets.SSH_USERNAME }}@${{ secrets.SSH_HOST }}:/home/dera.abdul/s4league/config/docker-compose.yml
 
       - name: Pulling Image
         run: |
