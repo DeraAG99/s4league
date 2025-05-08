@@ -45,3 +45,61 @@ MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of 
    at NeoNetsphere.AuthDatabase.Open() in C:\Users\Kora\Desktop\s4emu\src\AuthServer\Program.cs:line 270
    at NeoNetsphere.AuthDatabase.Initialize() in C:\Users\Kora\Desktop\s4emu\src\AuthServer\Program.cs:line 220
    at NeoNetsphere.Program.Main() in C:\Users\Kora\Desktop\s4emu\src\AuthServer\Program.cs:line 101
+2025-05-08 10:02:28.311 +07:00 [INF] Initializing...
+2025-05-08 10:02:31.229 +07:00 [ERR] UnhandledException
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts. ---> System.AggregateException: One or more errors occurred. (No connection could be made because the target machine actively refused it 127.0.0.1:3306) ---> System.Net.Internals.SocketExceptionFactory+ExtendedSocketException: No connection could be made because the target machine actively refused it 127.0.0.1:3306
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.DoMultipleAddressConnectCallback(Object result, MultipleAddressConnectAsyncResult context)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Net.Sockets.Socket.DoMultipleAddressConnectCallback(Object result, MultipleAddressConnectAsyncResult context)
+   at System.Net.Sockets.Socket.MultipleAddressConnectCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.<>c.<ConnectAsync>b__28_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at MySql.Data.Common.StreamCreator.GetTcpStream(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+---> (Inner Exception #0) System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10061): No connection could be made because the target machine actively refused it 127.0.0.1:3306
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.DoMultipleAddressConnectCallback(Object result, MultipleAddressConnectAsyncResult context)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Net.Sockets.Socket.DoMultipleAddressConnectCallback(Object result, MultipleAddressConnectAsyncResult context)
+   at System.Net.Sockets.Socket.MultipleAddressConnectCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.<>c.<ConnectAsync>b__28_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)<---
+
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at NeoNetsphere.AuthDatabase.Open() in C:\Users\Kora\Desktop\s4emu\src\AuthServer\Program.cs:line 270
+   at NeoNetsphere.AuthDatabase.Initialize() in C:\Users\Kora\Desktop\s4emu\src\AuthServer\Program.cs:line 220
+   at NeoNetsphere.Program.Main() in C:\Users\Kora\Desktop\s4emu\src\AuthServer\Program.cs:line 101
+2025-05-08 10:04:11.871 +07:00 [INF] Initializing...
+2025-05-08 10:04:12.124 +07:00 [INF] Created random api_key: key-1381058334
+2025-05-08 10:04:13.158 +07:00 [INF] Starting Server
+2025-05-08 10:04:13.164 +07:00 [INF] Cached xbnfile: XBN//ConstantInfo.xbn
+2025-05-08 10:04:13.165 +07:00 [INF] Cached xbnfile: XBN//Actions.xbn
+2025-05-08 10:04:13.166 +07:00 [INF] Cached xbnfile: XBN//Weapons.xbn
+2025-05-08 10:04:13.168 +07:00 [INF] Cached xbnfile: XBN//Effects.xbn
+2025-05-08 10:04:13.169 +07:00 [INF] Cached xbnfile: XBN//EffectMatch.xbn
+2025-05-08 10:04:13.169 +07:00 [INF] Cached xbnfile: XBN//EnchantData.xbn
+2025-05-08 10:04:13.170 +07:00 [INF] Cached xbnfile: XBN//EquipLimit.xbn
+2025-05-08 10:04:13.171 +07:00 [INF] Cached xbnfile: XBN//PveList.xbn
+2025-05-08 10:04:13.172 +07:00 [INF] Cached xbnfile: XBN//MonsterWaveList.xbn
+2025-05-08 10:04:13.173 +07:00 [INF] Cached xbnfile: XBN//EsperActionlist.xbn
+2025-05-08 10:04:13.175 +07:00 [INF] Cached xbnfile: XBN//WeaponTypeReloadInfo.xbn
+2025-05-08 10:04:13.176 +07:00 [INF] Cached xbnfile: XBN//RangeLimit.xbn
+2025-05-08 10:04:13.724 +07:00 [INF] Ready for connections!
+2025-05-08 10:04:13.726 +07:00 [WRN] !!! NOOB MODE IS ENABLED! EVERY LOGIN SUCCEEDS AND OVERRIDES ACCOUNT LOGIN DETAILS !!!
+2025-05-08 10:07:12.327 +07:00 [INF] Added server with valid apikey: S4Violet(1)
