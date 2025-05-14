@@ -60,7 +60,7 @@
       <reward Type="2" Data="6000001" PriceType="2" PeriodType="4" Color="0" Value="1" Effects="0" Rate="95" />
     </group>
     <group>
-      <reward Type="2" Data="2010002" PriceType="1" PeriodType="3" Color="0" Value="0" Effects="1201300005,1201301005,1299600007,1299602002" Rate="100" />
+      <reward Type="2" Data="2010002" PriceType="1" PeriodType="3" Color="0" Value="3" Effects="1201300005,1201301005,1299600007,1299602002" Rate="100" />
     </group>
     <group>
       <reward Type="1" Data="0" PriceType="0" PeriodType="0" Color="0" Value="300" Effects="0" Rate="40" />
